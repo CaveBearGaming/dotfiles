@@ -1,1 +1,9 @@
-# dotfiles
+My Dotfiles
+Welcome to my personal dotfiles repository! This setup features a clean, unified look driven by the Catppuccin Macchiato color palette, providing a vibrant and soft pastel aesthetic across your Mac.
+
+🎨 Firefox Customization
+To complete the look, you can download the matching Firefox theme HERE:
+
+Firefox theme: https://color.firefox.com/?theme=XQAAAAJHBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pG5gi-DrbS7fiEFLUzDsWXWyUHMSkHZ2PpRK_LvZGTF44fp7VjbASbxkoZAmYAwEJIoRnjw8xrOTGV_TjmyI1jBzmpM9P7ysk1XcU5Vim_Fm-lEdd2D1sQPsPth0WcE8lIqGr5N573zMoLiPjHVWhVFpBZ9NAWyIoayQkaZv_GNa6odcJwiPMQzgDjIO3oXtudXnw5k_sEGylKYGjVjl7RybVWfu43_UVBnyZ8ABfj_vyEDG8dhLP8K3F5P019p_IgZuNLd-0oic1c-daCxCfj67-HqTSdBnLjOfUBGrYTONMolAuzjbHMW2Uin4VEb_Lt_mlRYOv2WkpwdvkN-vUubvhlaK1b2CB4fASckF4raPC2b4r2aA2EwdhFhUlB9WmVerOffIJ5l_E-kVUricQNqvAyoUwVen1iPrCKGT1PPiDaqHqwUin-0uWqoFZnbJFYRYkNuJ0oLF9tmMRstZYSOLvn5GLHHHQPLASLFYBKhocCHnZ7VOL_-q8Y6R59XVoel1QReV4XbPgz9RcNJ
+
+Feel free to explore the rest of the configuration files!
