@@ -1,4 +1,7 @@
+<img src="screenshots/desktop1.png" width="49%" /> <img src="screenshots/desktop2.png" width="49%" />
+
 My Dotfiles
+
 Welcome to my personal dotfiles repository! This setup features a clean, unified look driven by the Catppuccin Macchiato color palette, providing a vibrant and soft pastel aesthetic across your Mac.
 
 🎨 Firefox Customization
