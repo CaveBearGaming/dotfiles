@@ -1,0 +1,107 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/saturn.txt",
+        "padding": {
+            "top": 1,
+            "left": 2
+        },
+        "color": {
+            "1": "white",
+            "2": "white",
+            "3": "white",
+            "4": "white",
+            "5": "white",
+            "6": "white",
+            "7": "white",
+            "8": "white",
+            "9": "white"
+        }
+    },
+    "display": {
+        "separator": " › ",
+        "color": {
+            "keys": "white",
+            "title": "white",
+            "output": "white",
+            "separator": "white"
+        }
+    },
+    "modules": [
+        {
+            "type": "title",
+            "color": {
+                "user": "white",
+                "at": "white",
+                "host": "white"
+            }
+        },
+        "break",
+        {
+            "type": "os",
+            "key": "",
+            "format": "macOS"
+        },
+        {
+            "type": "host",
+            "key": "󰇅",
+            "format": "@angads-laptop"
+        },
+        {
+            "type": "users",
+            "key": "",
+            "format": "angad"
+        },
+        {
+            "type": "packages",
+            "key": "",
+            "format": "{all} packages"
+        },
+        "break",
+        {
+            "type": "shell",
+            "key": ""
+        },
+        {
+            "type": "terminal",
+            "key": ""
+        },
+        {
+            "type": "wm",
+            "key": "󰖲",
+            "format": "yabai"
+        },
+        {
+            "type": "custom",
+            "key": "󰉼",
+            "format": "catppuccin-macchiato"
+        },
+        "break",
+        {
+            "type": "cpu",
+            "key": "",
+            "format": "Apple M4"
+        },
+        {
+            "type": "gpu",
+            "key": "󰢮",
+            "format": "Apple M4 iGPU"
+        },
+        {
+            "type": "memory",
+            "key": "",
+            "format": "{} {}"
+        },
+        {
+            "type": "disk",
+            "key": "",
+            "format": "256GB"
+        },
+        {
+            "type": "uptime",
+            "key": ""
+        },
+        "break"
+    ]
+}
